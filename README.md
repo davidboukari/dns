@@ -3,7 +3,7 @@
 
 ## dig
 
-### Get all information about a domaine
+### Get informations about mail mx of a domaine
 
 ```bash
 dig mx mydomaine.com
